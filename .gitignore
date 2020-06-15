@@ -1,4 +1,5 @@
 node_modules
+build
 .vscode
 tmp/*
 !tmp/.gitkeep
